@@ -1,5 +1,18 @@
+
 .debug{
     background-color: #006CFA;
     border: 1px solid white;
     height: 50px;
-  }
+    color: white;
+}
+
+.debug2{
+    background-color: #00E265;
+    border: 1px solid #006CFA;
+    height: 40px;
+    color: white;
+}
+
+.col-6.debug.p1{
+    height: 75px;
+}
