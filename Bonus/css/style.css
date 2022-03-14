@@ -1,0 +1,67 @@
+
+h2{
+    color: white;
+    font-size: 3rem;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+
+/*header*/
+.header{
+   height: 100px;
+}
+
+.logo>img{
+    height: 65px;
+    object-fit: cover;
+}
+
+
+.heroimg{
+    background-image: url(https://img.besthqwallpapers.com/Uploads/24-2-2019/81539/akita-inu-big-dog-pets-spring-japanese-dog.jpg);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.479);
+    background-blend-mode: color;
+}
+
+/*card*/
+
+.card{
+    background-color: rgb(230, 230, 230);
+    min-height: 400px;
+    border-radius: 10px;
+    margin: 2rem;
+    padding: 2rem;
+  
+}
+
+.card_img>img{
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+ 
+}
+
+.text{
+    width: 250px;
+}
+/*footer*/
+
+footer{
+    background-color: gray;
+    color: white;
+    min-height: 150px;
+    padding: 2rem;
+}
+
+footer ul li{
+    display: block;
+}

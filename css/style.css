@@ -16,3 +16,9 @@
 .col-6.debug.p1{
     height: 75px;
 }
+
+
+ul li{
+    list-style: none;
+    display: inline-block;
+}
